@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="left">Hola 👋 soy Raquel Melina</h2>
-<h3 align="left">Mi pasión es el desarrollo web 😄❤️</h3>
+<h3 align="left">Me apasiona el desarrollo web 💖💻🍩☕😄</h3>
 - 📫 Cómo contactarme raquelmelina2001@gmail.com
 
 <h3 align="left">Idiomas y herramientas:</h3>
