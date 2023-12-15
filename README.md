@@ -16,12 +16,12 @@ Here are some ideas to get you started:
 
 <h2 align="left">Hola 👋 soy Raquel Melina</h2>
 <h3 align="left">Mi pasión es el desarrollo web 😄❤️</h3>
-- 📫 Cómo contactarme **raquelmelina2001@gmail.com**
+- 📫 Cómo contactarme raquelmelina2001@gmail.com
 
 <h3 align="left">Idiomas y herramientas:</h3>
 
 <p align="left"> 
-    <a href="https://www.w3.org/html/" objetivo = "_blank" rel="noreferrer"> 
+<a href="https://www.w3.org/html/" objetivo = "_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width = "40" heigth="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" objetivo = "_blank" rel="noreferrer"> 
