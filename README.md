@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="left">Hola 👋 soy Raquel Melina</h1>
+
+![Captura de pantalla 2023-12-15 174540](https://github.com/rqueldev/rqueldev/assets/153774724/cd63fcf1-f54e-4961-b18e-d25c83e118dd)
+
 <h3 align="left">Me apasiona el desarrollo web 💖💻🍩☕😄</h3>
 - 📫 Cómo contactarme raquelmelina2001@gmail.com
 <hr> 
