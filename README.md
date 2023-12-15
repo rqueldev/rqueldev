@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hola 👋 soy Raquel Melina</h2>
+<h1 align="left">Hola 👋 soy Raquel Melina</h1>
 <h3 align="left">Me apasiona el desarrollo web 💖💻🍩☕😄</h3>
 - 📫 Cómo contactarme raquelmelina2001@gmail.com
-
+<hr> 
 <h3 align="left">Idiomas y herramientas:</h3>
 
 <p align="left"> 
-<a href="https://www.w3.org/html/" objetivo = "_blank" rel="noreferrer"> 
+  <a href="https://www.w3.org/html/" objetivo = "_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width = "40" heigth="40"/> 
   </a> 
   <a href="https://www.w3schools.com/css/" objetivo = "_blank" rel="noreferrer"> 
@@ -54,12 +54,9 @@ Here are some ideas to get you started:
     <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width = "40" heigth="40"/> 
   </a> 
   
-
- 
-  
 </p>
 
-
+<br>
 
 
 <p><img align="centro" src="https://github-readme-stats.vercel.app/api/top-langs?username=rqueldev&show_icons=true&locale=en&layout=compact" alt="rqueldev" /></p>
